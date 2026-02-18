@@ -25,27 +25,6 @@ Um gerador de senhas simples, seguro e interativo feito em Python. Projeto desen
 
 ---
 
-## 🚀 Como usar
-
-**1. Clone o repositório:**
-```bash
-git clone https://github.com/seu-usuario/gerador-de-senhas.git
-```
-
-**2. Acesse a pasta:**
-```bash
-cd gerador-de-senhas
-```
-
-**3. Rode o programa:**
-```bash
-python GeradordeSenhas.py
-```
-
-> Não é necessário instalar nenhuma dependência externa. As bibliotecas usadas (`random` e `string`) já vêm instaladas com o Python.
-
----
-
 ## 💻 Exemplo de uso
 
 ```
@@ -62,16 +41,6 @@ Suas senhas são:
 Gerar outra senha? (s/n): n
 Até mais!
 ```
-
----
-
-## 📁 Estrutura do projeto
-
-```
-gerador-de-senhas/
-└── GeradordeSenhas.py
-```
-
 ---
 
 ## 🧠 Conceitos aprendidos
